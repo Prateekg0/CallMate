@@ -1,6 +1,6 @@
 let IS_PROD = true;
 const server = IS_PROD ?
-    "url" :
+    "https://chillmode.onrender.com" :
 
     "http://localhost:3000"
 
